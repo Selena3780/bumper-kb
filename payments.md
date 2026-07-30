@@ -1,2 +1,0 @@
-# Payments & Billing
-Content here.
